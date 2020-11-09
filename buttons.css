@@ -1,0 +1,28 @@
+#wrapper {
+	width: 600px;
+	height: 600px;
+	border: 3px solid gray;
+}
+#wrapper div {
+	margin-left: 15px;
+	margin-top: 15px;
+}
+#img {
+	position: fixed;
+	left: 490px;
+	top: 490px;
+	width: 120px;
+}
+#bkgImg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -2;
+}
+button {
+	width: 40px;
+	height: 30px;
+	text-align: center;
+	color: white;
+	background-color: rgb(0, 180, 0);
+}
